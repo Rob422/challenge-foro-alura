@@ -23,4 +23,11 @@ Testing:
 
 ![Captura de pantalla 2024-07-11 002918](https://github.com/user-attachments/assets/941d998f-9cfc-484c-bb88-0746bb8b8d9c)
 
+Tecnologías utilizadas:
+-Intellij
+-MySql
+-Java
+-Spring Security
+-Insomnia
+
 
