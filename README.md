@@ -17,6 +17,8 @@ Testing:
 
 ![Captura de pantalla 2024-07-11 001419](https://github.com/user-attachments/assets/53907000-51b9-4704-a288-057fcc40bbae)
 
+![Captura de pantalla 2024-07-12 013949](https://github.com/user-attachments/assets/4789de25-9de7-4236-8b76-18e89c565086)
+
 ![Captura de pantalla 2024-07-11 002016](https://github.com/user-attachments/assets/dddbd75d-f56e-42fd-a098-b1584537283f)
 
 ![Captura de pantalla 2024-07-11 002713](https://github.com/user-attachments/assets/295270e9-2f4c-4886-b933-813af48b10a2)
